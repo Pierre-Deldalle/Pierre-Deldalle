@@ -43,3 +43,8 @@ I'm currently studying Computer Science and continuously improving my skills thr
 I especially enjoy building interactive applications, experimenting with new ideas and turning concepts into real projects.
 
 Outside of development, I'm also passionate about basketball. 🏀
+
+---
+
+
+![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pierre-Deldalle&show_icons=true&theme=github_dark)
