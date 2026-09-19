@@ -1,10 +1,10 @@
-# Hi there! 👋
+# Salut ! 👋
 
-I'm Pierre, a third-year Computer Science student with a strong interest in **web development** and **game development**.
+Je m'appelle Pierre, je suis étudiant en 3ᵉ année de BUT Informatique et je m'intéresse particulièrement au **développement web** et au **développement de jeux vidéo**.
 
 ---
 
-## 💻 Tech Stack
+## 💻 Stack technique
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@ I'm Pierre, a third-year Computer Science student with a strong interest in **we
 
 ---
 
-## 🛠️ Tools & Software
+## 🛠️ Outils & logiciels
 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -28,18 +28,16 @@ I'm Pierre, a third-year Computer Science student with a strong interest in **we
 
 ---
 
-## 🚀 Currently working on
+## 🚀 Projets en cours
 
-- 🎮 A game developed with **Unity and C#**
-- 🖥️ An interactive portfolio built with **React, TypeScript and Three.js**
-- 🌐 Various personal and university web projects
+- 🎮 Un jeu développé avec **Unity et C#**
+- 🖥️ Un portfolio interactif réalisé avec **React, TypeScript et Three.js**
+- 🌐 Différents projets web personnels et universitaires
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 À propos de moi
 
-I'm currently studying Computer Science and continuously improving my skills through both personal and university projects.
+Je suis actuellement étudiant en informatique et j'améliore continuellement mes compétences à travers mes projets personnels et universitaires.
 
-I especially enjoy building interactive applications, experimenting with new ideas and turning concepts into real projects.
-
-Outside of development, I'm also passionate about basketball. 🏀
+J'apprécie particulièrement la création d'applications interactives et le fait de transformer des concepts en projets concrets.
