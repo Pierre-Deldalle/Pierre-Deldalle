@@ -10,6 +10,7 @@ Je m'appelle Pierre, je suis étudiant en 3ᵉ année de BUT Informatique et je 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -25,6 +26,8 @@ Je m'appelle Pierre, je suis étudiant en 3ᵉ année de BUT Informatique et je 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -32,6 +35,7 @@ Je m'appelle Pierre, je suis étudiant en 3ᵉ année de BUT Informatique et je 
 
 - 🎮 Un jeu développé avec **Unity et C#**
 - 🖥️ Un portfolio interactif réalisé avec **React, TypeScript et Three.js**
+- 💳 Un site e-commerce pour un client avec **Next.js et TypeScript**
 - 🌐 Différents projets web personnels et universitaires
 
 ---
