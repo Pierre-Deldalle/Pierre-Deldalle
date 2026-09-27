@@ -41,6 +41,15 @@ Je m'appelle Pierre, je suis étudiant en 3ᵉ année de BUT Informatique et je 
 
 ---
 
+## ✅ Projets réalisés
+
+-
+-
+-
+> 🔒 Certains projets ont été réalisés dans un cadre professionnel ou pour des clients. Leur code source n'est donc pas disponible publiquement pour des raisons de confidentialité.
+
+---
+
 ## 👨‍💻 À propos de moi
 
 Je suis actuellement étudiant en informatique et j'améliore continuellement mes compétences à travers mes projets personnels et universitaires.
