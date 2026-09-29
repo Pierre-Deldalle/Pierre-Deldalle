@@ -43,9 +43,8 @@ Je m'appelle Pierre, je suis étudiant en 3ᵉ année de BUT Informatique et je 
 
 ## ✅ Projets réalisés
 
--
--
--
+- https://ballmakers.fr
+- https://optiqual-lab.fr/tableau-de-bord/
 > 🔒 Certains projets ont été réalisés dans un cadre professionnel ou pour des clients. Leur code source n'est donc pas disponible publiquement pour des raisons de confidentialité.
 
 ---
